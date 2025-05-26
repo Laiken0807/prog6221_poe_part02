@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\bin\Debug\Cybersecurity_ChatBot_POE.exe.config
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\bin\Debug\Cybersecurity_ChatBot_POE.exe
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\bin\Debug\Cybersecurity_ChatBot_POE.pdb
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\obj\Debug\Cybersecurity_ChatBot_POE.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\obj\Debug\Cybersecurity_ChatBot_POE.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\obj\Debug\Cybersecurity_ChatBot_POE.exe
+C:\Users\User01\source\repos\Cybersecurity_ChatBot_POE\Cybersecurity_ChatBot_POE\obj\Debug\Cybersecurity_ChatBot_POE.pdb
